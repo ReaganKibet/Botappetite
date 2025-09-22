@@ -31,7 +31,7 @@ export function CTASection() {
               </div>
               
               <div className="text-center text-gray-300">
-                <p className="text-lg font-medium">Join 500+ restaurants already using AI dining</p>
+                <p className="text-lg font-medium">Join restaurants already using AI dining</p>
                 <p className="text-sm">No credit card required • 14-day free trial</p>
               </div>
             </div>
